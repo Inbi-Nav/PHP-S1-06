@@ -11,5 +11,7 @@
             "email": "inkyn2002@gmail.com"
         }
     ],
-    "require": {}
+    "require": {
+        "nesbot/carbon": "^3.10"
+    }
 }
